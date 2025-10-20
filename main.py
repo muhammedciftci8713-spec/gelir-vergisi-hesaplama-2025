@@ -3,7 +3,7 @@ import streamlit as st
 bordro=st.checkbox("bordro")
 gelir=st.number_input("brüt yıllık gelirinizi giriniz")
 
-
+st.title("muhammed")
 
 
 
